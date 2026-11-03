@@ -10,3 +10,7 @@ __pycache__/
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Model files
+*.pkl
+*.joblib
